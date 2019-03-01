@@ -85,3 +85,11 @@ HISTORIAS DE USUARIO
 Como usuario quiero que la plataforma me muestre películas relacionadas con las especificaciones de mi búsqueda. 
 
 para conocer mas información del proceso de experiencia de usuario da click [aquí]()
+
+## Integrantes de Equipo y división de trabajo
+
+Hameyalli Elizalde Acevedo: Front-end.
+Eleonore Elisa Espinosa Nava: Front-end.
+
+Nohemi Eugenia Moreno Coronado: UX.
+Abygail Romero Rocha: UX. 

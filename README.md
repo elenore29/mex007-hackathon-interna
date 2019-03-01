@@ -84,12 +84,13 @@ HISTORIAS DE USUARIO
 “Como usuario quiero realizar una búsqueda específica (titulo, genero, actor, director) en la app.  
 Como usuario quiero que la plataforma me muestre películas relacionadas con las especificaciones de mi búsqueda. 
 
-para conocer mas información del proceso de experiencia de usuario da click [aquí](https://docs.google.com/presentation/d/1BZDweegeUMAuKcTMg3lMFwljnugyzYIkg4hNmVxM6wk/edit?usp=sharing)
+para conocer mas información del proceso de experiencia de usuario da click [aquí](https://docs.google.com/presentation/d/1BZDweegeUMAuKcTMg3lMFwljnugyzYIkg4hNmVxM6wk/edit?usp=sharing) 
+
 
 ## Integrantes de Equipo y división de trabajo
 
-Hameyalli Elizalde Acevedo: Front-end.
-Eleonore Elisa Espinosa Nava: Front-end.
+Hameyalli Elizalde Acevedo: Front-end. :)
+Eleonore Elisa Espinosa Nava: Front-end. :)
 
-Nohemi Eugenia Moreno Coronado: UX.
-Abygail Romero Rocha: UX. 
+Nohemi Eugenia Moreno Coronado: UX. :)
+Abygail Romero Rocha: UX. :)
